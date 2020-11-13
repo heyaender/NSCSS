@@ -1,3 +1,5 @@
-.fitur {
-    background-color: rgb(220, 241, 187);
+.header {
+    width: 100%;
+    overflow: hidden;
+    background-color:lightcoral;
 }
