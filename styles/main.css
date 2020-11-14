@@ -3,3 +3,7 @@
     overflow: hidden;
     background-color:lightcoral;
 }
+
+body {
+    margin: 0;
+}
