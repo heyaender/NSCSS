@@ -1,3 +1,9 @@
+.container {
+    margin: auto;
+    width: 70%;
+    overflow: hidden;
+}
+
 .header {
     width: 100%;
     overflow: hidden;
@@ -7,4 +13,13 @@
 
 body {
     margin: 0;
+}
+
+.header .logo {
+    font-size: 32px;
+    float: left;
+}
+
+.header .navigation {
+    float: right;
 }
