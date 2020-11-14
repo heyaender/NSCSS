@@ -22,4 +22,17 @@ body {
 
 .header .navigation {
     float: right;
+    margin-top: 40px;
+}
+
+.header .navigation li {
+    float: left;
+    margin-left: 25px;
+    font-size: 20px;
+    display: block;
+}
+
+.header .navigation li a {
+    color: white;
+    text-decoration: none;
 }
