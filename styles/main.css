@@ -36,3 +36,8 @@ body {
     color: white;
     text-decoration: none;
 }
+
+.header .navigation li a:hover {
+    color:rgb(236, 186, 57);
+    text-shadow: gray;
+}
