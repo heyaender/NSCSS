@@ -56,3 +56,11 @@ body {
     color: rgb(236, 186, 57);
     text-shadow: gray;
 }
+
+h3 {
+    font-family: Ubuntu;
+}
+
+.content {
+    padding: 10px;
+}
