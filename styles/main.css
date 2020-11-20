@@ -23,8 +23,9 @@ body {
 .header {
     width: 100%;
     overflow: hidden;
-    background-color: lightcoral;
+    background:linear-gradient(to bottom,rgb(71, 26, 40),rgb(238, 115, 154));
     padding: 10px;
+    height: 500px;
 }
 
 
